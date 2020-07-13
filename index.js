@@ -19,8 +19,11 @@ console.log(string.toLowerCase())
 {
   if (string === string.toLowerCase()) 
   {return ("I can't hear you")} 
-  else if (string === string.toUpperCase())
-  {return ("YRS INDEED")}
+  
+     else if (string === string.toUpperCase())
+     {return ("YES INDEED")}
+
+          else if ()   
   
 }
 
